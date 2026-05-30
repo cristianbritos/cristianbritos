@@ -25,6 +25,8 @@ Actualmente trabajo con tecnologías web modernas, investigación aplicada a Ing
 - Next.js
 - HTML5
 - CSS3
+- HTMX
+- ALPINE.JS
 
 ### Bases de Datos
 - PostgreSQL
@@ -77,6 +79,7 @@ Participación en proyectos de análisis, diseño e implementación de sistemas 
 - Clínica Regional de Los Llanos
 - Círculo Odontológico de Los Llanos y del Sur
 - Plataformas de gestión comercial y administrativa
+- Plaforma Educativa y de Diseño de Software
 
 ---
 
@@ -96,7 +99,7 @@ Detección automática de antipatrones de diseño en modelos de negocio.
 ## Formación Académica
 
 - Licenciado en Análisis de Sistemas — Universidad Nacional de La Rioja
-- Maestría en Informática — Universidad Nacional de San Juan (en curso)
+- Maestría en Informática — Universidad Nacional de San Juan
 
 ---
 
