@@ -84,7 +84,7 @@ Participación en proyectos de análisis, diseño e implementación de sistemas 
 
 ## Proyectos Destacados
 
-🔹 JobGroup Academy  
+🔹 JobGroup Academy  (https://jobgroup.com.ar/)
 Plataforma web orientada a capacitación y gestión académica.
 
 🔹 Sistemas de Gestión para Instituciones de Salud  
