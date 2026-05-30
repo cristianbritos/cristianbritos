@@ -1,4 +1,3 @@
-```markdown
 # Cristian Tomás Britos
 
 ## Licenciado en Análisis de Sistemas | Full Stack Developer | Profesor Universitario
@@ -113,4 +112,3 @@ https://linkedin.com/in/cristiantbritos
 
 🔗 GitHub  
 https://github.com/cristianbritos
-```
